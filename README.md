@@ -4,6 +4,10 @@
 You can directly demo from the link below:
 Demo link: https://cksachdev.github.io/forex-conversion-using-vuejs/
 
+
+![Preview](https://github.com/cksachdev/docs/blob/master/forex-screenshot.png
+)
+
 ### Option 2:
 Building Docker file  
 ```
