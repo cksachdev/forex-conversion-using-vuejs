@@ -1,5 +1,6 @@
 # forex-conversion
 
+Demo link: https://cksachdev.github.io/forex-conversion-using-vuejs/
 ## Project setup
 ```
 yarn install
