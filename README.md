@@ -1,4 +1,4 @@
-# forex-conversion
+# Sample application for forex conversion using vuejs and vuex
 
 ### Option 1:
 You can directly demo from the link below:
